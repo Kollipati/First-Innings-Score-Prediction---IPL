@@ -35,7 +35,3 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 • Add columns that consists of striker and non-striker's strike rates.<br/>
 • Implement this problem statement using Artificial Neural Network (ANN).<br/>
 
-## Deployed Web App
-If you want to view the deployed model, then follow  the links mentioned below:<br/>
-• GitHub: _https://github.com/anujvyas/IPL-First-Innings-Score-Prediction-Deployment_<br/>
-• Web App: _https://ipl-first-innings-score.herokuapp.com/_
